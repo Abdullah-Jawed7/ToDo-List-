@@ -1,0 +1,22 @@
+{
+  "name": "@oneandonly/todo-list",
+  "version": "3.1.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "list.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdullah",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
